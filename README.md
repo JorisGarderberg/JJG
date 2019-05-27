@@ -1,2 +1,2 @@
 # JJG
-Write-Host "Hello, World!"
+Start-Process -FilePath "calc.exe"
