@@ -1,2 +1,2 @@
 # JJG
-Just some powershell code to test
+Start-Process -FilePath "calc.exe"
